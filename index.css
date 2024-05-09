@@ -1,0 +1,46 @@
+.personal label {
+    display:block;
+    padding: 10px;
+}
+.personal {
+    background-color: aqua;
+}
+.course label {
+    display:block;
+    padding: 10px;
+}
+.course{
+    background-color: blueviolet;
+}
+
+.form1{
+    padding-bottom: 20px;
+    
+}
+.form {
+    border-style: dotted;
+    padding: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 20px;
+}
+body {
+    background-color: blanchedalmond;
+}
+p {
+    text-align: center;
+}
+.btn {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.btn:hover {
+    background-color: blue;
+    color: white;
+}
+h1{
+   text-align: center;
+}
+h1:hover{
+    color: green;
+}
